@@ -1,6 +1,6 @@
 # Weather-App
 
-A simple and user-friendly weather app that provides real-time weather information for any city around the world. This app displays temperature, weather conditions (clouds, rain, etc.), humidity, and wind speed. The background animation enhances the user experience by showing moving clouds, rain, and sunshine.
+A simple and user-friendly weather app that provides real-time weather information for any city around the world. This app displays temperature, weather conditions (clouds, rain, etc.), humidity, and wind speed. 
 
 ## Features
 
